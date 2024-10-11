@@ -13,7 +13,9 @@ function PetApp() {
       '/images/efir2.jpg',
       '/images/efir3.jpg',
       '/images/efir4.jpg',
-      '/images/efir5.jpg'
+      '/images/efir5.jpg',
+      '/images/efir6.jpg',
+      '/images/efir7.jpg'
     ]
   };
 
